@@ -18,7 +18,8 @@ public class p42 {
 		}
 		
 		System.out.println("\n"+tekst);
-
+		
+		System.out.println("HEY");
 	}
 
 }
