@@ -38,7 +38,7 @@ public class p44 {
 			System.out.print(tab[i]);
 	}
 		
-	System.out println(" Brawo ja!!");
-		System.out println(" Brawo ty!!");
+	System.out.println(" Brawo ja!!");
+		System.out.println(" Brawo ty!!");
 	}
 }
