@@ -39,5 +39,6 @@ public class p44 {
 	}
 		
 	System.out println(" Brawo ja!!");
+		System.out println(" Brawo ty!!");
 	}
 }
